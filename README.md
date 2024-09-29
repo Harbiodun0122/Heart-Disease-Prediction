@@ -71,6 +71,6 @@ You can run the script either locally or on Google Colab.
 ## Expected Run Time
 The approximate time to run the script is:
 
-Local Machine (8GB RAM, no GPU): ~ 5 minutes
+Local Machine (8GB RAM, no GPU): ~ 3 minutes
 
-Google Colab (with GPU): ~ 2 minutes
+Google Colab (with GPU): ~ 1 minute
