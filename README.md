@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 This repository contains a Python script for predicting heart disease using machine learning. The script includes data preprocessing, model training, evaluation, and prediction steps.
 
-The dataset used in this project is provided by Data Science Nigeria for 2024 AI Bootcamp Qualification Hackathon on zindi.
+The dataset used in this project is provided by **Data Scientist Network** formerly **Data Science Nigeria** for 2024 AI Bootcamp Qualification Hackathon on zindi.
 
 ## Folder Structure Setup
 All files are in a single folder. Ensure your folder contains the following:
