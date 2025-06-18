@@ -65,7 +65,7 @@ You can run the script either locally or on Google Colab.
 
 > **Processor:** Intel Core i5 or higher
 
-> **GPU:** Optional but recommended for faster training
+> **GPU:** Optional
 
 
 ## Expected Run Time
